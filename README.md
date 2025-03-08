@@ -2,7 +2,6 @@
 - 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Algorithms and Web Development! 
 
-- 📫 How to reach me ...
 
 
 <!---
