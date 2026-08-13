@@ -1,6 +1,6 @@
 - 👋 Hi everyone! I’m Kevin Gonzales
-- 👀 I’m interested in Full-Stack Development 
-- 🌱 I’m currently learning Algorithms and Web Development utilizing .net core and C#! 
+- 👀 I’m interested in Full-Stack Development, IT
+  
 
 
 
